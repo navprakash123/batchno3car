@@ -232,6 +232,7 @@ padding:10px 10px 10px 10px;
   display: grid;
   grid-template-columns: auto auto;
   overflow: hidden;
+  position: relative;
 }
 .div4{
   color:white;
